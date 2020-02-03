@@ -1,0 +1,16 @@
+.App {
+  font-family: sans-serif;
+  text-align: center;
+}
+
+.Button {
+  width: 100px;
+  height: 40px;
+  background-color: green;
+  margin: 10px;
+  color: white;
+}
+
+.Red {
+  color: red;
+}
